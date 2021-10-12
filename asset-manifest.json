@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AlphaShop/static/css/main.50972020.chunk.css",
+    "main.js": "/AlphaShop/static/js/main.6d3134c9.chunk.js",
+    "main.js.map": "/AlphaShop/static/js/main.6d3134c9.chunk.js.map",
+    "runtime-main.js": "/AlphaShop/static/js/runtime-main.adc1a2f4.js",
+    "runtime-main.js.map": "/AlphaShop/static/js/runtime-main.adc1a2f4.js.map",
+    "static/js/2.51754738.chunk.js": "/AlphaShop/static/js/2.51754738.chunk.js",
+    "static/js/2.51754738.chunk.js.map": "/AlphaShop/static/js/2.51754738.chunk.js.map",
+    "static/js/3.991dc1b8.chunk.js": "/AlphaShop/static/js/3.991dc1b8.chunk.js",
+    "static/js/3.991dc1b8.chunk.js.map": "/AlphaShop/static/js/3.991dc1b8.chunk.js.map",
+    "index.html": "/AlphaShop/index.html",
+    "static/css/main.50972020.chunk.css.map": "/AlphaShop/static/css/main.50972020.chunk.css.map",
+    "static/js/2.51754738.chunk.js.LICENSE.txt": "/AlphaShop/static/js/2.51754738.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adc1a2f4.js",
+    "static/js/2.51754738.chunk.js",
+    "static/css/main.50972020.chunk.css",
+    "static/js/main.6d3134c9.chunk.js"
+  ]
+}
