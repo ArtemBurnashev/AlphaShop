@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AlphaShop/static/css/main.50972020.chunk.css",
-    "main.js": "/AlphaShop/static/js/main.03afd984.chunk.js",
-    "main.js.map": "/AlphaShop/static/js/main.03afd984.chunk.js.map",
+    "main.js": "/AlphaShop/static/js/main.a92ba46b.chunk.js",
+    "main.js.map": "/AlphaShop/static/js/main.a92ba46b.chunk.js.map",
     "runtime-main.js": "/AlphaShop/static/js/runtime-main.adc1a2f4.js",
     "runtime-main.js.map": "/AlphaShop/static/js/runtime-main.adc1a2f4.js.map",
     "static/js/2.2cb2a5b8.chunk.js": "/AlphaShop/static/js/2.2cb2a5b8.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.adc1a2f4.js",
     "static/js/2.2cb2a5b8.chunk.js",
     "static/css/main.50972020.chunk.css",
-    "static/js/main.03afd984.chunk.js"
+    "static/js/main.a92ba46b.chunk.js"
   ]
 }
