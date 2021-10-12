@@ -7,6 +7,7 @@ import IconButton from '@mui/material/IconButton';
 import MenuIcon from '@mui/icons-material/Menu';
 import Menu from '../Menu';
 import {useState} from 'react';
+import { Link } from 'react-router-dom';
 
 export default function ButtonAppBar() {
 
@@ -42,7 +43,7 @@ export default function ButtonAppBar() {
             fontSize:'17px',
             }}>
             
-       AlphaShop
+          <Link to='/' style={{textDecoration:'none', color:'#fff'}}> AlphaShop</Link>    
           </Typography>
           <IconButton
             size="large"
